@@ -1,0 +1,92 @@
+{
+  "name": "react-loaders-kit",
+  "version": "0.1.0",
+  "description": "A robust collection of loaders for React.js",
+  "homepage": "https://github.com/Seimodei/react-loaders-kit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Seimodei/react-loaders-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Seimodei/react-loaders-kit/issues"
+  },
+  "author": "Bratua Seimodei",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/**/*"
+  ],
+  "dependencies": {
+    "@emotion/core": "^10.0.27",
+    "@emotion/styled": "^10.0.27",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "@testing-library/user-event": "^7.2.1",
+    "@types/enzyme": "^3.10.5",
+    "@types/enzyme-adapter-react-16": "^1.0.6",
+    "@types/jest": "^24.9.1",
+    "@types/node": "^12.12.27",
+    "@types/react": "^16.9.19",
+    "@types/react-dom": "^16.9.5",
+    "jest": "^25.1.0",
+    "jest-enzyme": "^7.1.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-scripts": "3.4.0",
+    "ts-jest": "^25.2.0",
+    "typescript": "^3.7.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "tsc",
+    "test": "jest --config jestconfig.json",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [
+    "react",
+    "react-components",
+    "loaders",
+    "spinners",
+    "loader",
+    "spinner",
+    "react-loaders",
+    "react-loader",
+    "react-spinners",
+    "react-spinner",
+    "react-css-spinners",
+    "react-css-loaders-kit",
+    "react-pure-css-spinners",
+    "react-pure-css-loaders",
+    "react-loaders-kit",
+    "progress",
+    "progress-indicator",
+    "activity",
+    "activity-loader",
+    "loading",
+    "loading-indicators",
+    "react-loading-indicators",
+    "react-loading-animations",
+    "react-css-loading-animations",
+    "progress-bar"
+  ],
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2"
+  }
+}

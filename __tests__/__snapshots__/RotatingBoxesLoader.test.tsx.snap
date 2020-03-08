@@ -1,0 +1,58 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RotatingBoxesLoader default should match snapshot 1`] = `
+<RotatingBoxesLoader
+  loading={true}
+>
+  <Styled(div)>
+    <div
+      className="css-lo26e5"
+    >
+      <Styled(div)>
+        <div
+          className="css-1olnkr2"
+        >
+          <Styled(div)
+            style={
+              Object {
+                "backgroundColor": "#fafafa",
+              }
+            }
+          >
+            <div
+              className="css-s08p0c"
+              style={
+                Object {
+                  "backgroundColor": "#fafafa",
+                }
+              }
+            />
+          </Styled(div)>
+        </div>
+      </Styled(div)>
+      <Styled(div)>
+        <div
+          className="css-e5pv52"
+        >
+          <Styled(div)
+            style={
+              Object {
+                "backgroundColor": "#fafafa",
+              }
+            }
+          >
+            <div
+              className="css-s08p0c"
+              style={
+                Object {
+                  "backgroundColor": "#fafafa",
+                }
+              }
+            />
+          </Styled(div)>
+        </div>
+      </Styled(div)>
+    </div>
+  </Styled(div)>
+</RotatingBoxesLoader>
+`;
