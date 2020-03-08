@@ -1,6 +1,7 @@
 # React Loaders Kit
 
 [![npm version](https://badge.fury.io/js/react-loaders-kit.svg)](https://www.npmjs.com/package/react-loaders-kit)
+[![license](https://img.shields.io/npm/l/react-spinners.svg)]()
 
 A simple yet robust and comprehensive collection of loading animations made with React.js based on inspiration from designers and developers on codepen.
 
