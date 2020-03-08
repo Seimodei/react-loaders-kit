@@ -1,5 +1,7 @@
 # React Loaders Kit
 
+[![npm version](https://badge.fury.io/js/react-loaders-kit.svg)][npm_url]
+
 A simple yet robust and comprehensive collection of loading animations made with React.js based on inspiration from designers and developers on codepen.
 
 This package was made using the [Emotion](https://emotion.sh/docs/introduction) css library.
