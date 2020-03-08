@@ -4,55 +4,60 @@ exports[`RotatingBoxesLoader default should match snapshot 1`] = `
 <RotatingBoxesLoader
   loading={true}
 >
-  <Styled(div)>
-    <div
-      className="css-lo26e5"
-    >
-      <Styled(div)>
-        <div
-          className="css-1olnkr2"
-        >
-          <Styled(div)
-            style={
-              Object {
-                "backgroundColor": "#fafafa",
-              }
-            }
+  <LoaderBox
+    dPropsSize={40}
+    loading={true}
+  >
+    <Styled(div)>
+      <div
+        className="css-1wov2i0"
+      >
+        <Styled(div)>
+          <div
+            className="css-vixna1"
           >
-            <div
-              className="css-s08p0c"
+            <Styled(div)
               style={
                 Object {
                   "backgroundColor": "#fafafa",
                 }
               }
-            />
-          </Styled(div)>
-        </div>
-      </Styled(div)>
-      <Styled(div)>
-        <div
-          className="css-e5pv52"
-        >
-          <Styled(div)
-            style={
-              Object {
-                "backgroundColor": "#fafafa",
-              }
-            }
+            >
+              <div
+                className="css-12d3qv7"
+                style={
+                  Object {
+                    "backgroundColor": "#fafafa",
+                  }
+                }
+              />
+            </Styled(div)>
+          </div>
+        </Styled(div)>
+        <Styled(div)>
+          <div
+            className="css-12bpqi2"
           >
-            <div
-              className="css-s08p0c"
+            <Styled(div)
               style={
                 Object {
                   "backgroundColor": "#fafafa",
                 }
               }
-            />
-          </Styled(div)>
-        </div>
-      </Styled(div)>
-    </div>
-  </Styled(div)>
+            >
+              <div
+                className="css-12d3qv7"
+                style={
+                  Object {
+                    "backgroundColor": "#fafafa",
+                  }
+                }
+              />
+            </Styled(div)>
+          </div>
+        </Styled(div)>
+      </div>
+    </Styled(div)>
+  </LoaderBox>
 </RotatingBoxesLoader>
 `;
