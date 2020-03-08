@@ -1,4 +1,4 @@
-# React Spinners Kit
+# React Loaders Kit
 
 A simple yet robust and comprehensive collection of loading animations made with React.js based on inspiration from designers and developers on codepen.
 
