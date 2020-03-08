@@ -57,10 +57,10 @@ const MyWonderfulComponent = () => {
 
 Common default props for all loaders:
 
-``js
+```js
 loading: true;
 pause: false;
-``
+```
 
 **IMPORTANT**: The `loading` prop is `REQUIRED` and needs to be passed for the loader to display.
 
