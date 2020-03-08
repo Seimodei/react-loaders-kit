@@ -19,6 +19,7 @@ With Yarn:
 
 ### `yarn add react-loaders-kit`
 
+
 With npm:
 
 ### `npm install --save react-loaders-kit`
@@ -87,11 +88,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|
 | 50           |['#5e22f0', '#f6b93b']|
 
+
 #### `<AtomLoader />`
 
 | size: number | colors: string[]     | duration: number     |
 | -------------|----------------------|----------------------|
 | 50           |['#5e22f0', '#5e22f0']| 1                    |
+
 
 #### `<BarsLoader />`
 
@@ -99,11 +102,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|----------------------|
 | 35           |['#5e22f0', '#f6b93b']| 1                    |
 
+
 #### `<BarsLoader2 />`
 
 | size: number | color: string        | duration: number     |
 | -------------|----------------------|----------------------|
 | 40           |'#5e22f0'             | 1.5                  |
+
 
 #### `<BatteryLoader />`
 
@@ -111,11 +116,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|----------------------|
 | 50           |'#5e22f0'             | 0.7                  |
 
+
 #### `<BlobLoader />`
 
 | size: number | color: string        | duration: number     |
 | -------------|----------------------|----------------------|
 | 40           |'#5e22f0'             | 1.3                  |
+
 
 #### `<BlurrySquareLoader />`
 
@@ -125,11 +132,13 @@ The tables below contain the default values of each prop on all loaders.
 
 ##### NOTE: The number of boxes must correspond to the number of colors in the array
 
+
 #### `<BouncyBallsLoader />`
 
 | size: number      | colors: string[]                | duration: number     |
 | ------------------|---------------------------------|----------------------|
 | 40                |['#5e22f0', '#5e22f0', '#5e22f0']| 0.4                  |
+
 
 #### `<BrokenCirclesLoader />`
 
@@ -137,11 +146,13 @@ The tables below contain the default values of each prop on all loaders.
 | ------------------|--------------------------------------------|
 | 40                |['#5e22f0', '#5e22f0', '#5e22f0', '#5e22f0']|
 
+
 #### `<CircleFadeLoader />`
 
 | size: number | color: string        | duration: number     |
 | -------------|----------------------|----------------------|
 | 40           |'#5e22f0'             | 0.5                  |
+
 
 #### `<CirclePopLoader />`
 
@@ -149,11 +160,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|----------------------|
 | 120          |'#5e22f0'             | 1                    |
 
+
 #### `<ClockLoader />`
 
 | size: number | colors: string[]     | duration: number     |
 | -------------|----------------------|----------------------|
 | 40           |['#5e22f0', '#5e22f0']| 1                    |
+
 
 #### `<DotsLoader />`
 
@@ -161,11 +174,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|----------------------|
 | 45           |'#5e22f0'             | 2                    |
 
+
 #### `<DoubleSquareLoader />`
 
 | size: number | colors: string[]     | duration: number     |
 | -------------|----------------------|----------------------|
 | 30           |['#5e22f0', '#5e22f0']| 2.5                  |
+
 
 #### `<DrawWaveLoader />`
 
@@ -173,11 +188,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|----------------------|
 | 50           |'#5e22f0'             | 0.8                  |
 
+
 #### `<DyingLightLoader />`
 
 | size: number      | colors: string[]                |
 | ------------------|---------------------------------|
 | 35                |['#5e22f0', '#5e22f0', '#5e22f0']|
+
 
 #### `<EightBitLoader />`
 
@@ -185,11 +202,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|----------------------|
 | 60           |'#5e22f0'             | 1                    |
 
+
 #### `<ElasticCircleLoader />`
 
 | size: number | color: string        | duration: number     |
 | -------------|----------------------|----------------------|
 | 40           |'#5e22f0'             | 1                    |
+
 
 #### `<FillCircleLoader />`
 
@@ -197,11 +216,13 @@ The tables below contain the default values of each prop on all loaders.
 | ------------------|----------------------|
 | 60                |['#5e22f0', '#5e22f0']|
 
+
 #### `<FillSquareLoader />`
 
 | size: number      | colors: string[]                           | duration: number     |
 | ------------------|--------------------------------------------|----------------------|
 | 40                |['#5e22f0', '#5e22f0', '#5e22f0', '#5e22f0']| 1                    |
+
 
 #### `<FlipLoader />`
 
@@ -209,11 +230,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|----------------------|
 | 45           |'#5e22f0'             | 1                    |
 
+
 #### `<FlippingCubeLoader />`
 
 | size: number      | colors: string[]                           |
 | ------------------|--------------------------------------------|
 | 35                |['#5e22f0', '#5e22f0', '#5e22f0', '#5e22f0']|
+
 
 #### `<GooeyLoader1 />`
 
@@ -221,11 +244,13 @@ The tables below contain the default values of each prop on all loaders.
 | ------------------|----------------------|
 | 60                |'#5e22f0'             |
 
+
 #### `<GooeyLoader2 />`
 
 | size: number      | color: string        |
 | ------------------|----------------------|
 | 60                |'#5e22f0'             |
+
 
 #### `<GooeyCircleLoader />`
 
@@ -233,11 +258,13 @@ The tables below contain the default values of each prop on all loaders.
 | ------------------|---------------------------------|
 | 80                |['#f6b93b', '#5e22f0', '#ef5777']|
 
+
 #### `<HelixLoader />`
 
 | numberOfDots: number | numberOfDots: number | colors: string[]                | duration: number     |
 | ---------------------| ---------------------|---------------------------------|----------------------|
 | 90                   | 10                   |['#5e22f0', '#f6b93b']           | 1.5                  |
+
 
 #### `<HydrogenLoader />`
 
@@ -245,11 +272,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|----------------------|
 | 45           |['#5e22f0', '#5e22f0']| 0.6                  |
 
+
 #### `<HypnosisLoader />`
 
 | size: number | colors: string[]     | duration: number     |
 | -------------|----------------------|----------------------|
 | 50           |['#ffffff', '#5e22f0']| 2                    |
+
 
 #### `<BlurrySquareLoader />`
 
@@ -259,11 +288,13 @@ The tables below contain the default values of each prop on all loaders.
 
 #### NOTE: The number of jellies must correspond to the number of colors in the array
 
+
 #### `<KissyBallsLoader />`
 
 | size: number | colors: string[]     | duration: number     |
 | -------------|----------------------|----------------------|
 | 60           |['#5e22f0', '#5e22f0']| 0.5                  |
+
 
 #### `<LineLoader />`
 
@@ -271,11 +302,13 @@ The tables below contain the default values of each prop on all loaders.
 | ------------------|----------------------|----------------------|
 | 25                |'#5e22f0'             | 2                    |
 
+
 #### `<LinneardLoader />`
 
 | size: number | colors: string[]     | duration: number     |
 | -------------|----------------------|----------------------|
 | 130          |['#5e22f0', '#ef5777']| 0.8                  |
+
 
 #### `<LiquidLoader />`
 
@@ -283,11 +316,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|----------------------|
 | 40           |'#5e22f0'             | 2                    |
 
+
 #### `<MovingSquareLoader />`
 
 | size: number | colors: string[]     | duration: number     |
 | -------------|----------------------|----------------------|
 | 60           |['#5e22f0', '#5e22f0']| 1                    |
+
 
 #### `<NotepadLoader />`
 
@@ -295,11 +330,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|----------------------|
 | 40           |['#5e22f0', '#5e22f0']| 2                    |
 
+
 #### `<PingPongLoader />`
 
 | size: number | colors: string[]     | duration: number     |
 | -------------|----------------------|----------------------|
 | 90           |['#5e22f0', '#5e22f0']| 0.8                  |
+
 
 #### `<PipLoader />`
 
@@ -307,11 +344,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|----------------------|
 | 15           |'#5e22f0'             | 0.8                  |
 
+
 #### `<PulseBubbleLoader />`
 
 | size: number      | colors: string[]                |
 | ------------------|---------------------------------|
 | 55                |['#5e22f0', '#5e22f0', '#5e22f0']|
+
 
 #### `<RotatingBoxesLoader />`
 
@@ -319,11 +358,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------| -----------------------|--------------------------------------------|----------------------|
 | 10           | 2                      |['#ffffff', '#ffffff', '#5e22f0', '#5e22f0']| 3                    |
 
+
 #### `<RotatingCircleLoader />`
 
 | size: number      | colors: string[]                           | duration: number     |
 | ------------------|--------------------------------------------|----------------------|
 | 20                |['#5e22f0', '#5e22f0', '#f6b93b', '#ef5777']| 1.2                  |
+
 
 #### `<SlicesLoader />`
 
@@ -331,11 +372,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|----------------------|
 | 80           |'#5e22f0'             | 1                    |
 
+
 #### `<SlidingCubeLoader />`
 
 | size: number | colors: string[]     | duration: number     |
 | -------------|----------------------|----------------------|
 | 10           |['#5e22f0', '#5e22f0']| 1                    |
+
 
 #### `<SphereLoader />`
 
@@ -343,11 +386,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|----------------------|
 | 40           |'#5e22f0'             | 1                    |
 
+
 #### `<SpinningCircleLoader />`
 
 | size: number      | colors: string[]     |
 | ------------------|----------------------|
 | 50                |['#5e22f0', '#ffffff']|
+
 
 #### `<SpinningOrbitLoader />`
 
@@ -355,11 +400,13 @@ The tables below contain the default values of each prop on all loaders.
 | ------------------|--------------------------------------------|
 | 50                |['#5e22f0', '#5e22f0', '#5e22f0', '#5e22f0']|
 
+
 #### `<SwingingCubeLoader />`
 
 | size: number | colors: string[]                | duration: number     |
 | -------------|---------------------------------|----------------------|
 | 18           |['#5e22f0', '#5e22f0', '#5e22f0']| 1                    |
+
 
 #### `<SwitchingCubeLoader />`
 
@@ -367,11 +414,13 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|---------------------------------|----------------------|
 | 20           |['#5e22f0', '#5e22f0', '#5e22f0']| 1                    |
 
+
 #### `<TextureLoader />`
 
 | size: number | color: string        | duration: number     |
 | -------------|----------------------|----------------------|
 | 40           |'#5e22f0'             | 0.7                  |
+
 
 #### `<VolumeLoader />`
 
@@ -379,17 +428,20 @@ The tables below contain the default values of each prop on all loaders.
 | -------------|----------------------|----------------------|
 | 35           |['#5e22f0', '#ffffff']| 0.6                  |
 
+
 #### `<VortexLoader />`
 
 | size: number | colors: string[]     | duration: number     |
 | -------------|----------------------|----------------------|
 | 40           |['#5e22f0', '#5e22f0']| 2                    |
 
+
 #### `<WaveLoader />`
 
 | size: number | color: string        | duration: number     |
 | -------------|----------------------|----------------------|
 | 40           |'#5e22f0'             | 0.6                  |
+
 
 
 ## Contributing

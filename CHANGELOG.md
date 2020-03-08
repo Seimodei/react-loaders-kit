@@ -1,3 +1,7 @@
+## 0.1.2
+
+- README clean up
+
 ## 0.1.1
 
 - README Update
