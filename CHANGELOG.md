@@ -1,3 +1,7 @@
+## 0.1.1
+
+- README Update
+
 ## 0.1.0
 
 - Added loaders to the kit.
