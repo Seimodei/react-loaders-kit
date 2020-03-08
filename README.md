@@ -81,7 +81,6 @@ The tables below contain the default values of each prop on all loaders.
 #### `<AlternatingOrbitsLoader />`
 
 | size: number | colors: string[]     |
-| -------------|----------------------|
 | 50           |['#5e22f0', '#f6b93b']|
 
 #### `<AtomLoader />`
