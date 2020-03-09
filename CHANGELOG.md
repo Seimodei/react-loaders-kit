@@ -1,3 +1,7 @@
+## 0.1.3
+
+- Updated README and added code of conduct
+
 ## 0.1.2
 
 - README clean up

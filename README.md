@@ -15,14 +15,17 @@ All loaders can be found on the demo page
 
 ## Installation
 
-With Yarn:
-
-### `yarn add react-loaders-kit`
-
-
 With npm:
 
-### `npm install --save react-loaders-kit`
+```bash
+npm install --save react-loaders-kit
+```
+
+With Yarn:
+
+```bash
+yarn add react-loaders-kit
+```
 
 ## Usage
 
